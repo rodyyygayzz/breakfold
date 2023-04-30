@@ -37,7 +37,7 @@ print("""\033[91m
 				By chaskar_shubham\033[00m
 """)
 
-#tor_password = input("\033[92m Enter your tor password: \033[00m")
+tor_password = input("\033[92m Enter your tor password: \033[00m")
 
 address = input("\033[92m Enter blog address:  \033[00m")
 
